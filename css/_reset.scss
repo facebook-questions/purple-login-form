@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500&display=swap');
+*, html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    background-image: url('../img/bg.png');
+    background-size: cover;
+    background-position: center;
+    font-family: Montserrat, sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
